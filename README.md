@@ -8,7 +8,7 @@
 Hello there! :wave: I'm Satadru Halder, a passionate developer and tech enthusiast from Kolkata. I'm currently pursuing my B.Tech. from IIIT Kalyani. Welcome to my GitHub profile!
 
 - :telescope: I’m currently exploring Machine Learning and Data Science.
-- :seedling: I’m currently learning python.
+- :seedling: I’m a python developer.
 - :smile: Pronouns: he/him.
 - :zap: Fun fact: I love sleeping.
 
