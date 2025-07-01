@@ -14,8 +14,8 @@ Hello there! :wave: I'm Satadru Halder, a passionate developer and tech enthusia
 
 ## Contact Me
 
-- :mailbox: How to reach me: satadruhalder03@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/satadru-halder-791415213/) | [Instagram](https://www.instagram.com/satadru_03/) | [Facebook](https://www.facebook.com/satadru.halder03/) | [Twitter](https://twitter.com/HalderSatadru).
-- :smile: Portfolio Website: [https://satadru03.github.io/](https://satadru03.github.io/).
+- :mailbox: How to reach me: satadruhalder03@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/satadru-h-791415213/) | [Instagram](https://www.instagram.com/satadru_03/) | [Facebook](https://www.facebook.com/satadru.halder03/) | [Twitter](https://twitter.com/HalderSatadru).
+- :smile: Portfolio Website: [https://satadru03.pythonanywhere.com/](https://satadru03.pythonanywhere.com/).
 
 ## GitHub Stats
 
