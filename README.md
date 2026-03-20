@@ -1,36 +1,102 @@
-# Satadru's GitHub Profile
+# 👋 Hi, I'm Satadru Halder
 
-[![GitHub followers](https://img.shields.io/github/followers/Satadru03?style=social)](https://github.com/Satadru03)
-[![Twitter Follow](https://img.shields.io/twitter/follow/HalderSatadru?style=social)](https://twitter.com/HalderSatadru)
+🚀 Backend + Machine Learning Engineer
+🎓 Final Year B.Tech (ECE) @ IIIT Kalyani
 
-## About Me
-
-Hello there! :wave: I'm Satadru Halder, a passionate developer and tech enthusiast from Kolkata. I'm currently pursuing my B.Tech. from IIIT Kalyani. Welcome to my GitHub profile!
-
-- :telescope: I’m currently exploring Machine Learning and Data Science.
-- :seedling: I’m a python developer.
-- :smile: Pronouns: he/him.
-- :zap: Fun fact: I love sleeping.
-
-## Contact Me
-
-- :mailbox: How to reach me: satadruhalder03@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/satadru-h-791415213/) | [Instagram](https://www.instagram.com/satadru_03/) | [Facebook](https://www.facebook.com/satadru.halder03/) | [Twitter](https://twitter.com/HalderSatadru).
-- :smile: Portfolio Website: [https://satadru03.pythonanywhere.com/](https://satadru03.pythonanywhere.com/).
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satadru03&show_icons=true&count_private=true&hide=prs&theme=radical)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satadru03&layout=compact&theme=radical)
-
-## Contributions and Open Source
-
-I'm a strong believer in the power of open source, and I actively contribute to various projects. Check out my contributions on [GitHub](https://github.com/Satadru03?tab=repositories&type=source) and consider collaborating!
-
-## Let's Connect
-
-Feel free to reach out to me through email or connect with me on LinkedIn. I'm always open to networking, collaboration, and interesting discussions!
+I build **real-world AI + backend systems** that are deployed, scalable, and usable.
 
 ---
+
+# 🚀 Featured Project
+
+## 🧠 Human Free Will Erosion Engine
+
+A behavioral analytics system that models **how predictable human decision patterns become over time**.
+
+🔗 **Live Dashboard**
+https://human-free-will-erosion-dashboard.onrender.com/
+
+🔗 **API Docs**
+https://human-free-will-api.onrender.com/docs
+
+🔗 **GitHub Repo**
+https://github.com/Satadru03/human-free-will-erosion-engine
+
+### ⚡ What it does
+
+* Logs human decisions over time
+* Computes **behavioral entropy & predictability**
+* Detects **habit loops**
+* Predicts **next likely action using Markov models**
+* Simulates **future behavior patterns**
+
+### 🧠 Tech Stack
+
+* FastAPI + Python
+* PostgreSQL + SQLAlchemy
+* Streamlit Dashboard
+* JWT Authentication
+* Markov Modeling + Entropy Analytics
+* Deployed on Render
+
+---
+
+# ⚙️ Other Projects
+
+## 📊 ETL + Analytics Dashboard
+
+https://github.com/Satadru03/world-population-etl-dashboard
+
+* Web scraping + ETL pipeline
+* PostgreSQL storage
+* Streamlit visualization
+
+---
+
+## 🤖 ML-Powered Backend API
+
+https://github.com/Satadru03/fastapi-borrowing
+
+* End-to-end ML pipeline
+* FastAPI prediction service
+* Dockerized backend
+
+---
+
+## 🧾 FastAPI Todo Backend
+
+https://github.com/Satadru03/fastapi-todo
+
+* CRUD API with PostgreSQL
+* JWT authentication
+* Dockerized setup
+
+---
+
+# 🧰 Tech Stack
+
+**Languages:** Python, SQL
+**Backend:** FastAPI
+**Database:** PostgreSQL
+**ML:** scikit-learn, NLP basics
+**DevOps:** Docker, Render, AWS (basic)
+**Frontend:** Streamlit
+
+---
+
+# 📈 What I'm Focused On
+
+* Building production-ready ML systems
+* Backend architecture + APIs
+* Behavioral analytics & applied AI
+
+---
+
+# 📫 Contact
+
+📧 [satadruhalder03@gmail.com](mailto:satadruhalder03@gmail.com)
+🔗 https://www.linkedin.com/in/satadru-h-791415213/
+
+---
+
+⭐ If you like my work, feel free to explore my repositories!
